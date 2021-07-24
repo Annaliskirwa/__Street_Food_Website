@@ -9,7 +9,7 @@
     left: 0;
 }
 #header{
-    background-color:  #C9ECB5;
+    background-color: #C9ECB5;
 }
 nav {
     max-width: 100%;
@@ -57,4 +57,27 @@ nav h1::first-letter{
     border-style: none;
     width: auto;
     height: auto;
+}
+#home{
+    margin-left: 50px;
+    padding-bottom: 100px;
+}
+#about h1{
+    color: #EAAB1B;
+}
+#about img{
+   float: left;
+   align:left;
+   width: 500px;
+ 
+}
+#about{
+    margin-left: 150px;
+    margin-right: 200px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-bottom: 100px;
+}
+#about p, #about h1{
+    text-align: center;
 }
