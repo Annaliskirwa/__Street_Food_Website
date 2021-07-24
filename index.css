@@ -105,5 +105,14 @@ nav h1::first-letter{
     display: table;
   }
   #row{
-      padding-left: 50px;
+      padding-left:50px;
   }
+  #column p{
+    background: white;
+    padding-left:80px;
+    border-radius: 0px 0px 50px 0px;
+   float: right;
+   margin: 10px;
+  }
+ 
+ 
