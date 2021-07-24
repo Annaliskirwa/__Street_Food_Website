@@ -96,8 +96,8 @@ nav h1::first-letter{
 }
 #column {
     float: left;
-    width: 31%;
-    padding: 10px;
+    width: 30%;
+    padding: 5px;
   }
   #row::after {
     content: "";
@@ -105,14 +105,28 @@ nav h1::first-letter{
     display: table;
   }
   #row{
-      padding-left:50px;
+    padding-left:0px;
+    position:relative;
+    padding-bottom: 50px;
   }
-  #column p{
+  #column {
     background: white;
-    padding-left:80px;
     border-radius: 0px 0px 50px 0px;
-   float: right;
    margin: 10px;
-  }
+   display: inline-flex;
+  
+   }
+   #column img{
+       margin-top: 70px; 
+   }
+   #column strong{
+       font-weight: bolder;
+       color:black;
+       font-size: 1.3em;
+   }
+   #column p{
+       float: right;
+   }
+
  
  
