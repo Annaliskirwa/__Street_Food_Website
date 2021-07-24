@@ -81,3 +81,29 @@ nav h1::first-letter{
 #about p, #about h1{
     text-align: center;
 }
+#ourmenu{
+    background-color: #C9ECB5;
+}
+#ourmenu h1{
+    text-align: center;
+    padding-top: 30px;
+}
+#ourmenu h1 span:first-child{
+    color: black;
+}
+#ourmenu h1 span:last-child{
+    color: #6CB840;
+}
+#column {
+    float: left;
+    width: 31%;
+    padding: 10px;
+  }
+  #row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  #row{
+      padding-left: 50px;
+  }
