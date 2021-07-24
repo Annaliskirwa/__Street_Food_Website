@@ -14,7 +14,7 @@
 nav {
     max-width: 100%;
     margin: 0 auto;
-    padding: 50px;
+    padding-top: 50px;
    
  }
  nav > ul{
@@ -24,10 +24,11 @@ nav {
 }
 nav ul li{
 padding: 18px;
-margin-right: 0;
+margin-right: 25px;
 text-transform: none;
 text-decoration: none;
 display: block;
+
 }
 a{
 text-decoration: none;
@@ -42,4 +43,10 @@ nav h1{
 }
 nav h1::first-letter{
     font-size: 200%;
+}
+#home h1 span:first-child{
+    color: #6CB840;
+}
+#home h1 span:last-child{
+    color:#EAAB1B;
 }
