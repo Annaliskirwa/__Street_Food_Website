@@ -28,6 +28,8 @@ margin-right: 0;
 text-transform: none;
 text-decoration: none;
 display: block;
-
+color: black;
 }
-a{text-decoration: none;}
+a{
+    text-decoration: none;
+color: black;}
