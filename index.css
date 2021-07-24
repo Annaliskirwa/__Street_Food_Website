@@ -8,3 +8,14 @@
 #header{
     background-color:  #C9ECB5;
 }
+nav {
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 50px;
+   
+ }
+ nav > ul{
+    text-align: center;
+    display: inline-flex;
+    padding-right: 70px;
+}
