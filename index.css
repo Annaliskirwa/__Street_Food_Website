@@ -50,3 +50,11 @@ nav h1::first-letter{
 #home h1 span:last-child{
     color:#EAAB1B;
 }
+#submit{
+    background-color:  #6CB840;
+    color: white;
+    border-radius: 15px;
+    border-style: none;
+    width: auto;
+    height: auto;
+}
