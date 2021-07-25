@@ -151,12 +151,15 @@ nav h1::first-letter{
     margin-left: auto;
     margin-right: auto;
     flex-direction: row;
+    padding: 10px;
 }
 #happyhour #images{
     display: grid;
     position: relative;
     grid-template-columns: repeat(12, 1fr);
+    right: 200px;
 }
+
 #images #one{
     grid-column: 4/ -1;
     grid-row: 1;
@@ -168,6 +171,17 @@ nav h1::first-letter{
     padding-left: 40%;
     z-index: 1;
 }
-
- 
- 
+#happyhour #tets p{
+    text-align: center;
+}
+ #contact{
+     background-color: #FFD77C;
+     text-align: center;
+     padding: 10px;
+ }
+ #contact #email{
+     border-radius: 15px;
+ }
+ #contact form{
+     padding: 20px;
+ }
