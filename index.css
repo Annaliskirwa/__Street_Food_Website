@@ -1,6 +1,7 @@
 *{
     font-family: poppins;
 }
+<
 .container {
     position: absolute;
     top: 0;
@@ -191,3 +192,31 @@ nav h1::first-letter{
  #contact h1 span:last-child{
      color:  #6CB840;
  }
+ #footer{
+     background-color:  #C9ECB5;
+     padding-top: 40px;
+     padding-bottom: 40px;
+     padding-left: 20px;
+ }
+ #footer #days{
+     width: 15%;
+     border-right: 1px dashed black;
+     padding: 10px;
+ }
+ .days{
+     display: flex;
+ }
+ .days #p{
+     padding: 30px;
+ }
+#footer #follow{
+    position: absolute;
+    align-items: left;
+    left: 900px;
+    bottom: -2350px;
+}
+#follow #submit{
+    position: absolute;
+    left: 300px;
+    bottom: 50px;
+}
