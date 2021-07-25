@@ -185,3 +185,9 @@ nav h1::first-letter{
  #contact form{
      padding: 20px;
  }
+ #contact h1 span:first-child{
+     color: black;
+ }
+ #contact h1 span:last-child{
+     color:  #6CB840;
+ }
