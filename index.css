@@ -1,7 +1,7 @@
 *{
     font-family: poppins;
 }
-<
+/*Container syling starts here*/
 .container {
     position: absolute;
     top: 0;
@@ -9,6 +9,7 @@
     right: 0;
     left: 0;
 }
+/*Header styling starts here*/
 #header{
     background-color: #C9ECB5;
 }
@@ -45,6 +46,7 @@ nav h1{
 nav h1::first-letter{
     font-size: 200%;
 }
+/*Home styling starts here*/
 #home h1 span:first-child{
     color: #6CB840;
 }
@@ -63,6 +65,7 @@ nav h1::first-letter{
     margin-left: 50px;
     padding-bottom: 100px;
 }
+/* About styles start here*/
 #about h1{
     color: #EAAB1B;
 }
@@ -82,6 +85,7 @@ nav h1::first-letter{
 #about p, #about h1{
     text-align: center;
 }
+/*Menu styling lists start here*/
 #ourmenu{
     background-color: #C9ECB5;
 }
@@ -175,6 +179,7 @@ nav h1::first-letter{
 #happyhour #tets p{
     text-align: center;
 }
+/*Contacts styling start here*/
  #contact{
      background-color: #FFD77C;
      text-align: center;
@@ -192,6 +197,7 @@ nav h1::first-letter{
  #contact h1 span:last-child{
      color:  #6CB840;
  }
+ /*Styling of footer start here*/
  #footer{
      background-color:  #C9ECB5;
      padding-top: 40px;
