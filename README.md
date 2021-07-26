@@ -5,7 +5,8 @@ This is a street food restaurant website that displays the restaurant's about, t
 ## Description
 The website has the restaurants about, menu,contacts and location.Its purpose is to enable the restaraunts' customers be more farmiliar with the restaurant.
 ## Setup/Installation Requirements
-* You only need a web browser to view the website.
+* You only need a web browser to view the website.  
+* You can then follow the link to the website: https://annaliskirwa.github.io/__Street_Food_Website/
 ## Known Bugs
 There are no known bugs at the moment
 ## Technologies Used
